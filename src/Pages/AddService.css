@@ -1,0 +1,11 @@
+.AddService-container{
+    display: flex;
+    flex-direction: column;
+    
+    justify-content: center;
+    align-items: center;
+}
+
+.AddService-container input {
+    width: 40%;
+}
